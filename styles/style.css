@@ -1,0 +1,15 @@
+html {
+    font-family: Helvetica;
+    background-color: black;
+}
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    color: greenyellow;
+}
+.lastResult {
+    color: whitesmoke;
+    padding: 3px;
+}
